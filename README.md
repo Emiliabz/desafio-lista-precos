@@ -1,37 +1,27 @@
-﻿# Desafio: Lista de PreÃ§os
+﻿# Desafio: Lista Precos
 
-Sistema de gerenciamento de preÃ§os de produtos.
+Desafio de lÃ³gica em Python desenvolvido durante meus estudos em AnÃ¡lise e Desenvolvimento de Sistemas (ADS).
 
 ## ðŸŽ¯ DescriÃ§Ã£o
 
-ExercÃ­cio que implementa um sistema para cadastrar produtos e seus preÃ§os, com operaÃ§Ãµes de busca, atualizaÃ§Ã£o e relatÃ³rios.
+ExercÃ­cio prÃ¡tico que implementa algoritmos para manipulaÃ§Ã£o de dados e estruturas em Python.
 
 ## ðŸ› ï¸ Tecnologias Utilizadas
 
 - **Python 3** - Linguagem de programaÃ§Ã£o
 
-## ðŸš€ ExecuÃ§Ã£o
+## ðŸš€ Como Executar
 
 `ash
-# Executar o sistema
-python desafio_lista_precos.py
+python desafio-lista-precos.py
 `
 
 ## ðŸ“‹ Funcionalidades
 
-- Cadastro de produtos e preÃ§os
-- Busca por produto
-- AtualizaÃ§Ã£o de preÃ§os
-- RelatÃ³rio de produtos por faixa de preÃ§o
-- CÃ¡lculo de totais
-
-## ðŸ’¡ Estrutura de Produto
-
-`python
-produto = {
-    "nome": "Produto A",
-    "preco": 29.99
-}
-`
+- ImplementaÃ§Ã£o do algoritmo solicitado
+- Entrada e processamento de dados
+- SaÃ­da formatada dos resultados
 
 ---
+
+*Desenvolvido por EmÃ­lia - Estudante de ADS*
